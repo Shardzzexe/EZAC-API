@@ -1,4 +1,4 @@
-# EZAC The FASTEST Auto Clicker for Minecraft Bedrock
+# EZAC The ***FASTEST*** Auto Clicker for Minecraft Bedrock
 
 ## What is EZAC?
 
