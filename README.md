@@ -23,9 +23,9 @@ Firstly, it downloads both the injector executable file and DLL file - both avai
 
 ---
 
-At the current time of this project being published, this code is **NOT** open source. The reason for this is because it will take a long time to add each file to the main repo and I'm *lazy.*
+At the current time of this project being published, this code **is** open source.
 
-Probably, when **version-2.0.0** is released, I will add the source code to the repo below:
+The source code is in the repo below:
 [EZ Auto Clicker - OSS](https://github.com/Shardzzexe/EZ-Auto-Clicker/)
 
 ## 🤔 How do I use this utility?
