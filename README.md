@@ -1,5 +1,7 @@
 # EZAC The ***FASTEST*** Auto Clicker for Minecraft Bedrock
 
+# UPDATES PAST VERSION 1.26.21 ARE NOT SUPPORTED AND WILL TAKE A WHILE TO UPDATE.
+
 ## What is EZAC?
 
 EZAC is a free internal based Minecraft Bedrock auto clicker. The latest version is available on the release tap of this repo.
