@@ -1,6 +1,9 @@
-# EZAC The ***FASTEST*** Auto Clicker for Minecraft Bedrock
+# We did it! The Auto Clicker is now for Minecraft version 1.26.32!
+## New flyhack is being tested aswell.
 
-# UPDATES PAST VERSION 1.26.21 ARE NOT SUPPORTED AND WILL TAKE A WHILE TO UPDATE.
+---
+
+# EZAC The ***FASTEST*** Auto Clicker for Minecraft Bedrock
 
 ## What is EZAC?
 
